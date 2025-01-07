@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Inetum**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Oracle Apex**
 
 - 📫 How to reach me **luis.campos@bootcamp-upgradehub.com**
 
